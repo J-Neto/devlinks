@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+
+  /* Colocando a medida do tamanho da caixa através da borda */
+  box-sizing: border-box;
+}
+
+body {
+  /* background-image: url(bg-mobile.jpg); */
+  /* background-repeat: no-repeat; */
+
+  /* eixo Y (top) eixo X (center) */
+  /* O eixo Y da imagem de fundo vai começar no seu topo */
+  /* o eixo X da imagem de fundo vai começar no seu centro */
+
+  /* background-position: top center;
+  background-size: cover;  */
+
+  /* background: color image repeat position/size */
+  background: url(assets/bg-mobile.jpg) no-repeat top center/cover;
+}
+
+/* Seletor Universal - Vai fazer tudo com todos os elementos do body */
+body * {
+  font-family: "Inter", sans-serif;
+  color: #ffffff;
+}
+
+#container {
+  width: 360px;
+  margin: 56px auto 8px auto;
+}
+
+#profile {
+  text-align: center;
+  padding: 24px;
+}
+
+#profile img {
+  width: 112px;
+}
+
+#profile p {
+  font-weight: 500;
+  line-height: 24px;
+  margin-top: 8px;
+}
+
+/* img é inline */
+/* inline permite que o pai use "text-align" */
