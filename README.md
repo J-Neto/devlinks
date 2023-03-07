@@ -1,6 +1,10 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
+  <a href="https://j-neto.github.io/devlinks/"> Você pode acessar o projeto por aqui.</a>
+</p>
+
+<p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
