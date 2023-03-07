@@ -2,7 +2,7 @@
 
 <p align="center">
   Você pode acessar o projeto por 
-  <a href="https://j-neto.github.io/devlinks/"> aqui.</a>
+  <a href="https://j-neto.github.io/devlinks/" target="_blank"> aqui.</a>
 </p>
 
 <p align="center">
