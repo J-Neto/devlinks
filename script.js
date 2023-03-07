@@ -14,14 +14,14 @@ function toggleMode() {
     img.setAttribute("src", "assets/avatar-light.png")
     img.setAttribute(
       "alt",
-      "Foto de Mayk Brito sorrindo, usando óculos escuros e camisa preta, barba e fundo amarelo."
+      "Foto de José Neto, usando óculos escuros e camisa amarela."
     )
   } else {
     // se tiver sem light mode, manter a imagem normal
     img.setAttribute("src", "assets/avatar.png")
     img.setAttribute(
       "alt",
-      "Foto de Mayk Brito sorrindo, usando óculos e camisa preta, barba e fundo amarelo."
+      "Foto de José Neto sorrindo, usando terno preto e com fundo azul."
     )
   }
 
