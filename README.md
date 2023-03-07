@@ -1,7 +1,8 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-  <a href="https://j-neto.github.io/devlinks/"> Você pode acessar o projeto por aqui.</a>
+  Você pode acessar o projeto por 
+  <a href="https://j-neto.github.io/devlinks/"> aqui.</a>
 </p>
 
 <p align="center">
